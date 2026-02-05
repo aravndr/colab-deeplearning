@@ -1,2 +1,2 @@
 # colab-deeplearning
-Aravind's practice notebooks during MIT Core - 'Hands on Deep Learning'
+Aravind's practice notebooks for MIT Course - 'Hands on Deep Learning'
